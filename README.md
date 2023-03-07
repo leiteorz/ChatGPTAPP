@@ -1,0 +1,4 @@
+# ChatGPTAPP
+一个学习使用ChatGPT的api的例子
+
+拉取代码后只需要将Utils的HttpUtil中的API_KEY改成自己申请到的密匙即可
